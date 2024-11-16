@@ -20,4 +20,8 @@ Bu projede Migration uyguladık, İnterface'lerimizi hazırladık ve veritabanı
 Bu projede EntityFramework katmanı eklendi. Model kuruldu.
 ***
 
+### 📜 15. Proje "C#(.Net Framework) ile N Katmanlı Mimari DbFirst EntityFramework Projesi"
+Bu projede form tasarımı yaptık ve verilerimizi ekle sil güncelle yapabilecek şekilde ekrana yansıttık.
+***
+
 2024 © [Merve AKBAŞ](https://mrvakbas.com)
