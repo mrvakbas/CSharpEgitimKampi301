@@ -24,4 +24,8 @@ Bu projede EntityFramework katmanı eklendi. Model kuruldu.
 Bu projede form tasarımı yaptık ve verilerimizi ekle sil güncelle yapabilecek şekilde ekrana yansıttık.
 ***
 
+### 📜 16. Proje "C#(.Net Framework) ile N Katmanlı Mimari Ef Tur Projesi"
+Bu projede form Lokasyon tasarımı yaptık ve verilerimizi ekle sil güncelle yapabilecek şekilde turlarımızı listeledik.
+***
+
 2024 © [Merve AKBAŞ](https://mrvakbas.com)
