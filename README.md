@@ -28,4 +28,11 @@ Bu projede form tasarımı yaptık ve verilerimizi ekle sil güncelle yapabilece
 Bu projede form Lokasyon tasarımı yaptık ve verilerimizi ekle sil güncelle yapabilecek şekilde turlarımızı listeledik.
 ***
 
+### 📜 17. Proje "C#(.Net Framework) ile N Katmanlı Mimari Ef Tur Projesi Statistik Ekranı"
+Bu projede form Statik tasarımı yaptık ve verilerimize daha hızlı ulaşabilmek için statick ekrana çektik.
+
+C# Eğitim Kampı Ef Tur Projesi Statik Ekran Görüntüsü
+![Form Statik Ekran Görüntüsü](https://i.hizliresim.com/2wp3r5u.jpg)
+***
+
 2024 © [Merve AKBAŞ](https://mrvakbas.com)
