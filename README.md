@@ -35,4 +35,8 @@ C# Eğitim Kampı Ef Tur Projesi Statik Ekran Görüntüsü
 ![Form Statik Ekran Görüntüsü](https://i.hizliresim.com/2wp3r5u.jpg)
 ***
 
+### 📜 18. Proje "C#(.Net Framework) ile N Katmanlı Mimari DataAccessLayer Katmanı"
+Bu projede DaraAccessLayer katmanında eksik olan EntityFramework klasöründe eksiklerimizi tamamladık.
+***
+
 2024 © [Merve AKBAŞ](https://mrvakbas.com)
