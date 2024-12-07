@@ -32,7 +32,7 @@ Bu projede form Lokasyon tasarımı yaptık ve verilerimizi ekle sil güncelle y
 Bu projede form Statik tasarımı yaptık ve verilerimize daha hızlı ulaşabilmek için statick ekrana çektik.
 
 C# Eğitim Kampı Ef Tur Projesi Statik Ekran Görüntüsü
-![Form Statik Ekran Görüntüsü](https://ibb.co/PTwwNDc)
+![Form Statik Ekran Görüntüsü](https://imgyukle.com/i/CiK7fe#google_vignette)
 ***
 
 ### 📜 18. Proje "C#(.Net Framework) ile N Katmanlı Mimari DataAccessLayer Katmanı"
