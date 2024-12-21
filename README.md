@@ -39,4 +39,16 @@ C# Eğitim Kampı Ef Tur Projesi Statik Ekran Görüntüsü
 Bu projede DataAccessLayer katmanında eksik olan EntityFramework klasöründe eksiklerimizi tamamladık.
 ***
 
+### 📜 19. Proje "C#(.Net Framework) ile N Katmanlı Mimari BusinessLayer Katmanı"
+Bu projede BusinessLayer Katmanında her entity için interfaceler ve classlar yazıldı. 
+***
+
+### 📜 20. Proje "C#(.Net Framework) ile N Katmanlı Mimari BusinessLayer Katmanı"
+Bu projede BusinessLayer Katmanında Dependency injection kavramını ögrendik ve uyguladık. 
+***
+
+### 📜 21. Proje "C#(.Net Framework) ile N Katmanlı Mimari Entity'e Özgü Metot"
+Bu projede Entity'e özgü metotlar yazmayı ögrendik.
+***
+
 2024 © [Merve AKBAŞ](https://mrvakbas.com)
