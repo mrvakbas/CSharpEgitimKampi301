@@ -5,10 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpEgitimKampi301.DataaccessLayer.Abstract
+namespace CSharpEgitimKampi301.BusinessLayer.Abstract
 {
-    public interface IProductDal : IGenericDal<Product>
+    public interface ICustomerService : IGenericService<Customer>
     {
-        List<object> GetProductsWithCategory();
     }
 }
